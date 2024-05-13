@@ -15,3 +15,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ### Autor:
 Este projeto foi desenvolvido por Arly_Júnior em continuo aprendizado em análise de dados | parâmetros estatísticos de um conjunto de dados, incluindo o número de observações, média, desvio padrão, valor mínimo e valor máximo.
+![image](https://github.com/ARLY-LC-JUNIOR/rotina-aprendizado-data-SAS/assets/106846090/4b90ff81-49a5-426e-809c-87464a1a27d9)
+
+
+
